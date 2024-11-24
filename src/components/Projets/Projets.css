@@ -1,0 +1,48 @@
+.projets-all {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    padding: 2rem;
+    flex-wrap: wrap; 
+    color: white;
+}
+
+.projets-all h2 {
+   display: flex;
+   justify-content: center;
+    font-size: 3rem;
+    color: #3C6997;
+}
+
+.projets-card {
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 20px #3C6997; 
+    text-align: center;
+    background-color: rgb(25, 26, 29);
+}
+  
+.projets-title {
+    font-size: 1.5rem;
+}
+  
+.projets-description {
+    font-size: 1rem;
+    padding: 1rem;
+}
+  
+.projets-icons {
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem;
+    border-top: 1px solid #ddd;
+}
+  
+.icon-image {
+    width: 30px;
+}
+
+.lien-projet  {
+    text-decoration: none;
+    color: white;
+}

@@ -1,0 +1,66 @@
+.about-all {
+  display: flex; 
+  align-items: center;  
+  flex-direction: column; 
+  margin-top: 11rem;
+  color: white;
+}
+
+.photo-meliodas {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px; 
+  object-fit: cover;
+}
+
+.about-text {
+    text-align: center; 
+    max-width: 80%;
+}
+
+.about-text p{
+  font-size: 3rem;
+  color: #3C6997;
+}
+
+.about-text h1 {
+  font-size: 3rem;
+  margin: 5px;
+} 
+
+.about-text h3 span {
+  color: #3C6997; 
+}
+
+.animation-write {
+    display: inline-block; 
+    overflow: hidden; 
+    white-space: nowrap; 
+    animation: typing 4s steps(20, end) infinite;
+    color: #3C6997;
+    font-size: 3rem;
+  }
+  
+  @keyframes typing {
+    0% {
+      width: 0%;
+      border-right:1px solid white;
+    }
+    80% {
+      width: 80%;
+    }
+  }
+  
+  @keyframes blink {
+    50% {
+      border-color: transparent; 
+    }
+    100% {
+      border-color: #3C6997; 
+    }
+  }
+  
+
+
+
+
