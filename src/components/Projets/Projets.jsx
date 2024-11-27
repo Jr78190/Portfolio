@@ -1,7 +1,6 @@
 import React from 'react';
 import './Projets.css';
 import images from '../../data/images';
-import {Link} from 'react-router-dom'
 
 function Projets() {
   return (

@@ -28,37 +28,16 @@
   margin: 5px;
 } 
 
+.about-text h2 {
+  color: #3C6997;
+  font-size: 3rem;
+}
+  
 .about-text h3 span {
   color: #3C6997; 
 }
 
-.animation-write {
-    display: inline-block; 
-    overflow: hidden; 
-    white-space: nowrap; 
-    animation: typing 4s steps(20, end) infinite;
-    color: #3C6997;
-    font-size: 3rem;
-  }
-  
-  @keyframes typing {
-    0% {
-      width: 0%;
-      border-right:1px solid white;
-    }
-    80% {
-      width: 80%;
-    }
-  }
-  
-  @keyframes blink {
-    50% {
-      border-color: transparent; 
-    }
-    100% {
-      border-color: #3C6997; 
-    }
-  }
+
   
 
 

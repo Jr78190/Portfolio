@@ -1,6 +1,6 @@
 .header-navbar {
     background-color: rgba(33, 37, 41, .8); 
-    box-shadow: 0px 6px 20px #3C6997; /* Ombre en bas */
+    box-shadow: 0px 6px 20px #3C6997;
     position: fixed;  
     top: 0;          
     right: 0;        
@@ -21,7 +21,6 @@
   font-weight: bold;
   display: flex; 
   align-items: center;
-  /* color: #3C6997(215, 35, 140);  */
 }
   
 .navbar-right ul {
@@ -55,21 +54,23 @@
 @media screen and (max-width: 768px) {
   
     .navbar-left {
-      margin-top: 1rem;
-      margin-left: 5rem;
+      margin-left: 5vw;
     }
 
-    .navbar-right {
-        display: none;
+    .item-all {
+      display: none;
     }
+
+}
+    
+
+@media (max-width: 480px) {
+    .navbar-left {
+    margin-left: 0;
+    font-size: 5vw;
+    }
+}
   
-    /* .navbar-right ul {
-      flex-direction: row; 
-      gap: 1rem; 
-    } */
-  
-  
-  }
 
 
   

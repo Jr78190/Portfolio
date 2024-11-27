@@ -15,7 +15,8 @@
 }
 
 .projets-card {
-    width: 300px;
+    width: 300px; 
+    /* width: 19vw; */
     border-radius: 10px;
     box-shadow: 0px 4px 20px #3C6997; 
     text-align: center;
@@ -46,3 +47,4 @@
     text-decoration: none;
     color: white;
 }
+

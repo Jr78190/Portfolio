@@ -11,9 +11,9 @@ const About = () => {
             <div className="about-text">
                 <p> À Propos de moi </p>
                 <h1>Je Suis</h1>
-                <h2 className="animation-write">Développeur web React</h2>
+                <h2>Développeur web React</h2>
                 <h3>
-                Développeur web junior, reconverti depuis 2022, j'ai débuté à 
+                Bonjour je m'appelle Jean-Rayan, Développeur web junior, reconverti depuis 2022, j'ai débuté à 
                 <span> l'ETNA</span> en bac+2 Avant une interruption pour manque de stage. En 2023, j'ai poursuivi 
                 ma formation d'intégrateur web chez<span> OpenClassrooms </span>  
                 À partir de Mars 2025, je reprendrai mes études en alternance en <span>Bachelor 3 "Concepteur de projets SI"</span> à l'ETNA.

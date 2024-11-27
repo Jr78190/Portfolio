@@ -39,12 +39,25 @@
     object-fit: contain; 
 }
 
+@media (max-width: 1130px) {
+    .comp-text {
+        grid-template-columns: repeat(4, 1fr);  
+    }
+
+    .photbannerP {
+        width: 19vw; 
+    }
+}
+
 @media (max-width: 768px) {
     .comp-text {
         grid-template-columns: repeat(2, 1fr); 
     }
-}
 
+    .photbannerP {
+        width: 180px; 
+    }
+}
 
 @media (max-width: 480px) {
     .comp-text {
