@@ -18,7 +18,10 @@
     color: #3C6997;
     margin-right: 4.7rem; 
     font-size: 1.2rem;
+    transition: transform 0.3s ease-in-out;
 }
+
+
 
 .photbannerP {
     padding: 10px;
@@ -31,6 +34,12 @@
     width: 180px; 
     height: 110px; 
     overflow: hidden; 
+    transition: transform 0.3s ease-in-out; 
+}
+
+.comp-text div:hover .photbannerP, 
+.comp-text div:hover p {
+    transform: scale(1.1);
 }
 
 .photbannerP img {
@@ -62,6 +71,6 @@
 @media (max-width: 480px) {
     .comp-text {
         grid-template-columns: 1fr; 
-        margin-left:6rem;
+        margin-left: 6rem;
     }
 }
