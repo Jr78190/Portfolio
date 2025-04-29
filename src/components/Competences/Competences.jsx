@@ -25,7 +25,7 @@ function Competences() {
                 <p>React</p>
               </div>
               <div>
-                <img src={images.Saas} className="photbannerP" alt="SaaS" title="SaaS" />
+                <img src={images.Saas} className="photbannerP" alt="Sass" title="Sass" />
                 <p>SaaS</p>
               </div>
               <div>
