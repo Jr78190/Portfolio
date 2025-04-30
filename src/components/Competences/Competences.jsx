@@ -26,7 +26,7 @@ function Competences() {
               </div>
               <div>
                 <img src={images.Saas} className="photbannerP" alt="Sass" title="Sass" />
-                <p>SaaS</p>
+                <p>Sass</p>
               </div>
               <div>
                 <img src={images.Ts} className="photbannerP" alt="TypeScript" title="TypeScript" />
