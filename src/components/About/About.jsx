@@ -16,7 +16,7 @@ const About = () => {
                 Bonjour je m'appelle Jean-Rayan, Développeur web junior, reconverti depuis 2022, j'ai débuté à 
                 <span> l'ETNA</span> en Bac+2 où j'ai acquis des bases solides en développement. En 2023, j'ai poursuivi 
                 ma formation d'intégrateur web chez<span> OpenClassrooms </span> ce qui m'a permis de renforcer mes compétences et de m’auto-former sur de nouvelles technologies et de m’adapter rapidement à différents outils.
-                Actuellement, je suis en <span>Bachelor "Concepteur développeur d'application"</span> à l'ETNA.
+                Actuellement, je suis en <span>Bachelor " Concepteur développeur d'application "</span> à l'ETNA.
                 </h3>
             </div>
         </section>
