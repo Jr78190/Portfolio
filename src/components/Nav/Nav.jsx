@@ -15,7 +15,7 @@ const Navbar = () => {
                 <li className="item-all"><a href="#projets">Projets</a></li>
                 <li className="item-all"><a href="#contact">Contact</a></li>
                 <li className="item-cv">
-                    <a href="./CV BachelorFK.pdf" download="CV Bachelor FK">CV</a></li>
+                    <a href="./CV DevWeb.pdf" download="CV DevWeb">CV</a></li>
             </ul>
         </div>
     </nav>

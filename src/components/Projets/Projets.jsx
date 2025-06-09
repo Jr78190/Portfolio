@@ -17,7 +17,7 @@ function Projets() {
 
           <div className="projets-icons">
             <a href="https://github.com/Jr78190/booki" target="_blank">
-              <img src={images.GitHub} alt="Booki" className="icon-image" title="Voir le code"/>
+              <img src={images.GitHub} alt="GitHub" className="icon-image" title="Voir le code"/>
             </a>
           </div>
         </div>
@@ -32,7 +32,7 @@ function Projets() {
 
           <div className="projets-icons">
             <a href="https://github.com/Jr78190/OhMyFood" target="_blank">
-              <img src={images.GitHub} alt="OhMyFood" className="icon-image" title="Voir le code" />
+              <img src={images.GitHub} alt="GitHub" className="icon-image" title="Voir le code" />
             </a>
           </div>
         </div>
@@ -47,7 +47,7 @@ function Projets() {
 
           <div className="projets-icons">
             <a href="https://github.com/Jr78190/kasa" target="_blank">
-              <img src={images.GitHub} alt="Kasa" className="icon-image" title="Voir le code" />
+              <img src={images.GitHub} alt="Github" className="icon-image" title="Voir le code" />
             </a>
           </div>
         </div>
@@ -62,7 +62,7 @@ function Projets() {
 
           <div className="projets-icons">
             <a href="https://github.com/Jr78190/ArgentBank-" target="_blank">
-              <img src={images.GitHub} alt="ArgentBank" className="icon-image" title="Voir le code" />
+              <img src={images.GitHub} alt="Github" className="icon-image" title="Voir le code" />
             </a>
           </div>
         </div> 
